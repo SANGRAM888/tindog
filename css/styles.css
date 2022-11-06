@@ -1,0 +1,127 @@
+#title{
+  background:#FF0000;
+  color:#fff;
+}
+.container-fluid{
+ padding: 3% 15% 9%;
+ }
+
+h1{
+  font-family:"montserrat-black";
+  font-size: 4rem;
+  line-height: 1.5;
+}
+h3{
+  font-family:"montserrat-bolt";
+}
+h2{
+  font-family:"montserrat-bolt";
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #000;
+}
+.navbar-brand{
+  font-family: ubuntu;
+  font-size: 2.5rem;
+  color:#fff;
+}
+.nav-item{
+  padding: 0 18px;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+. downlod-button{
+margin:5% 3% 5% 0;
+}
+.img{
+  width: 60%;
+  transform:rotate(25deg);
+  position: absolute;
+  right: 10%;
+}
+.img1{
+  
+}
+#features{
+  padding: 7% 15%;
+  position: relative;
+  background-color: #fff;
+
+}
+.ftr{
+  text-align: center;
+}
+
+body {
+ background-repeat: no-repeat;
+ background-attachment: fixed; 
+}
+#testimonials{
+
+  text-align: center;
+font-size: 1.5rem;
+
+
+}
+.carousel-item {
+    padding: 7% 30%;
+}
+.testimonial-image{
+  width: 20%;
+  border-radius: 100%;
+}
+#press{
+  text-align: center;
+}
+.pss-logo{
+  width: 15%;
+  margin: 20px 15px 20px;
+}
+.carousel-item{
+    height:500px;
+}
+.b2:hover{
+  color: red;
+}
+#pricing{
+  padding: 5% 10%;
+  text-align: center;
+}
+.prc{
+  padding: 5% 5%;
+}
+#cta{
+  text-align:center;
+  background-color:blue;
+    padding: 5% 15%;
+}
+#footer{
+  background-color:#fff;
+  text-align: center;
+    padding: 5% 15%;
+}
+@media (max-width: 1028px) {
+#title{
+  text-align: center;
+}
+  .img{
+    position: static;
+    width: 50%;
+    transform:rotate(0);
+  }
+
+}
+.btn{
+  margin-top: 5%;
+}
+.icon{
+  width: 2%;
+  margin-left:2%;
+  margin-bottom: 3%;
+}
+.logo{
+  width: 30%;
+  border-radius: 100%;
+  margin-bottom: 5%;
+}
